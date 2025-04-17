@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ringtone_list">
+        <item>Default</item>
+        <item>Beep</item>
+        <item>Chime</item>
+        <item>Digital</item>
+        <item>Ding</item>
+        <item>Classic</item>
+        <item>Jingle</item>
+        <item>Morning</item>
+    </string-array>
+</resources>
